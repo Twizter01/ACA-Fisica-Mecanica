@@ -61,7 +61,25 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
-				}
+				},
+				'academic-primary': 'hsl(var(--academic-primary))',
+				'academic-primary-light': 'hsl(var(--academic-primary-light))',
+				'academic-secondary': 'hsl(var(--academic-secondary))',
+				'academic-accent': 'hsl(var(--academic-accent))',
+				'education-surface': 'hsl(var(--education-surface))',
+				'education-border': 'hsl(var(--education-border))',
+				'education-muted': 'hsl(var(--education-muted))'
+			},
+			backgroundImage: {
+				'gradient-academic': 'var(--gradient-academic)',
+				'gradient-surface': 'var(--gradient-surface)'
+			},
+			boxShadow: {
+				'academic': 'var(--shadow-academic)',
+				'card-soft': 'var(--shadow-card)'
+			},
+			transitionTimingFunction: {
+				'academic': 'var(--transition-academic)'
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
