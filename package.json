@@ -10,7 +10,7 @@
     "build:dev": "vite build --mode development",
     "lint": "eslint .",
     "preview": "vite preview",
-    "deploy": "vite build && node deploy-gh-pages.js"
+    "deploy": "vite build && cp dist/index.html dist/404.html && node deploy-gh-pages.js"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.9.0",
