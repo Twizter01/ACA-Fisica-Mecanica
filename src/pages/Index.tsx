@@ -62,10 +62,10 @@ const Index = () => {
           <p className="mb-2">
             <strong>Informe de Laboratorio - PhET Simulations</strong>
           </p>
-          <p className="text-blue-200 text-sm">
-            Universidad de Colorado Boulder | Departamento de Física
+          <p className="text-purple-200 text-sm">
+            Corporación Unificada Nacional | Departamento de Física
           </p>
-          <p className="text-blue-300 text-xs mt-2">
+          <p className="text-purple-300 text-xs mt-2">
             Energía en la Pista de Patinaje - Análisis de Conservación de Energía Mecánica
           </p>
         </div>

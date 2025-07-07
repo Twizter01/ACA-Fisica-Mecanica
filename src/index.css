@@ -10,9 +10,9 @@
     --background: 210 100% 99%;
     --foreground: 210 40% 8%;
     
-    /* University blue theme */
-    --academic-primary: 213 94% 45%;
-    --academic-primary-light: 213 94% 65%;
+    /* Modern purple theme */
+    --academic-primary: 271 81% 56%;
+    --academic-primary-light: 271 81% 70%;
     --academic-secondary: 210 16% 93%;
     --academic-accent: 45 100% 72%;
     
@@ -27,7 +27,7 @@
     --popover: 0 0% 100%;
     --popover-foreground: 222.2 84% 4.9%;
 
-    --primary: 213 94% 45%;
+    --primary: 271 81% 56%;
     --primary-foreground: 210 100% 99%;
 
     --secondary: 210 16% 93%;
@@ -55,7 +55,7 @@
 
     --border: 213 27% 84%;
     --input: 213 27% 84%;
-    --ring: 213 94% 45%;
+    --ring: 271 81% 56%;
 
     --radius: 0.75rem;
 

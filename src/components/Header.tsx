@@ -8,8 +8,8 @@ export const Header = () => {
           <div className="flex items-center space-x-4">
             <FlaskConical className="h-8 w-8" />
             <div>
-              <h1 className="text-3xl font-bold">Universidad de Colorado Boulder</h1>
-              <p className="text-blue-100 mt-1">Laboratorio de Física - Simulaciones PhET</p>
+            <h1 className="text-3xl font-bold">Corporación Unificada Nacional</h1>
+            <p className="text-purple-100 mt-1">Laboratorio de Física - Simulaciones PhET</p>
             </div>
           </div>
           <div className="flex items-center space-x-2">
@@ -20,7 +20,7 @@ export const Header = () => {
         
         <div className="mt-6 text-center">
           <h2 className="text-4xl font-bold mb-2">Energía en la Pista de Patinaje</h2>
-          <p className="text-xl text-blue-100">Análisis de Conservación de Energía Mecánica</p>
+          <p className="text-xl text-purple-100">Análisis de Conservación de Energía Mecánica</p>
         </div>
       </div>
     </header>

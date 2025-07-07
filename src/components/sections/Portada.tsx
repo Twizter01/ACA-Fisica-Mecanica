@@ -11,7 +11,7 @@ export const Portada = () => {
         </div>
         
         <h1 className="text-4xl font-bold text-primary mb-2">
-          UNIVERSIDAD DE COLORADO BOULDER
+          CORPORACIÓN UNIFICADA NACIONAL
         </h1>
         <p className="text-xl text-muted-foreground">
           Departamento de Física
@@ -39,15 +39,7 @@ export const Portada = () => {
               <User className="h-5 w-5 text-primary" />
               <div>
                 <p className="font-semibold">Estudiante:</p>
-                <p className="text-muted-foreground">Nombre del Estudiante</p>
-              </div>
-            </div>
-            
-            <div className="flex items-center space-x-3">
-              <Hash className="h-5 w-5 text-primary" />
-              <div>
-                <p className="font-semibold">Código de Estudiante:</p>
-                <p className="text-muted-foreground">20XX-XXXXX</p>
+                <p className="text-muted-foreground">Gabriel Rodriguez</p>
               </div>
             </div>
           </div>
@@ -65,7 +57,7 @@ export const Portada = () => {
               <Hash className="h-5 w-5 text-primary" />
               <div>
                 <p className="font-semibold">Código:</p>
-                <p className="text-muted-foreground">FIS-1100</p>
+                <p className="text-muted-foreground">53312</p>
               </div>
             </div>
           </div>
